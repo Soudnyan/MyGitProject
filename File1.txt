@@ -2,9 +2,12 @@ This is File1 to write helloworld...........!!!!!!!
 
 class myclass{
 
+	void myMethod(){
+		System.out.println("Hello World....Welcome to git....");
+	}
 	public static void main(){
 
-		System.out.println("Hello World....Welcome to git....");
+		
 
 	}
 
